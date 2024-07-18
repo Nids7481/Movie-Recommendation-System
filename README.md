@@ -1,5 +1,6 @@
 I've developed a movie recommender web application using Streamlit for the front end and machine learning techniques like feature extraction and cosine similarity for the backend. 
-The app uses the movie's features (genres, keywords, tagline, cast, and director) to find and recommend 30 similar movies./n
+The app uses the movie's features (genres, keywords, tagline, cast, and director) to find and recommend 30 similar movies.
+
 Working:
 The movie dataset is loaded into a pandas DataFrame.
 Selected features are combined into a single string for each movie to create a comprehensive representation.
